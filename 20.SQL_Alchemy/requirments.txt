@@ -1,0 +1,4 @@
+﻿alembic==1.12.1
+psycopg2==2.9.9
+SQLAlchemy==2.0.23
+python-decouple==3.8
